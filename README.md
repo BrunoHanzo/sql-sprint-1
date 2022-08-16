@@ -1,6 +1,9 @@
 # Sprint 1 - SQL
 
+> Foi utilizado de um banco de dados disponibilizado para o programa de bolsa da Compass para a execução.
+
 ## Listar todos os livros publicados após 2014
+
 
 ```sh
 SELECT 
